@@ -1,0 +1,104 @@
+{  
+   "womens" : {  
+      "title":[  
+         "New",
+         "Dresses + Rompers",
+         "Tops",
+         "Jackets",
+         "Bottoms",
+         "Intimates",
+         "Swim",
+         "Vintage",
+         "Beauty",
+         "Accessories",
+         "Shoes",
+         "Brands",
+         "Sale"
+      ]
+   },
+   "mens" : {  
+      "title":[  
+         "New",
+         "Graphic Tees",
+         "Tops",
+         "Jackets",
+         "Bottoms",
+         "Shoes",
+         "Accessories",
+         "Socks + Underwear",
+         "Vintage",
+         "Grooming",
+         "Brands",
+         "Sale"
+      ]
+   },
+   "apartment" : {  
+      "title":[  
+         "New",
+         "Bedding",
+         "Furniture",
+         "Lighting",
+         "Rugs + Curtains",
+         "Art + Décor",
+         "Kitchen + Bar",
+         "Bath",
+         "Books + Stationery",
+         "Party + Games",
+         "Sale"
+      ]
+   },
+   "music+tech": {  
+      "title":[  
+         "New",
+         "Vinyl + Cassettes",
+         "Record + Cassette Players",
+         "Audio",
+         "Cameras + Film",
+         "Phone + Tech Accessories",
+         "Media Storage",
+         "Sale"
+      ]
+   },
+   "beauty": {  
+      "title":[  
+         "New",
+         "Makeup",
+         "Skin Care",
+         "Perfume + Fragrance",
+         "Bath + Body",
+         "Hair",
+         "Nails",
+         "Wellness",
+         "Accessories",
+         "Men's Grooming",
+         "Gift Sets",
+         "Brands",
+         "Sale"
+      ]
+   },
+   "swim+intimates" : {  
+      "title":[  
+         "New",
+         "Swim",
+         "Lingerie Sets",
+         "Bras + Bralettes",
+         "Undies",
+         "Bodysuits",
+         "Slips + Rompers",
+         "Lounge",
+         "Activewear",
+         "Socks + Tights",
+         "Sale"
+      ]
+   },
+   "sales" : {  
+      "title":[  
+         "Women's Sale",
+         "Men's Sale",
+         "Apartment Sale",
+         "Music + Tech Sale",
+         "Beauty Sale",
+         "Intimates Sale"
+      ]
+   }
+}

@@ -1,0 +1,2015 @@
+[
+    {
+        "name": "Kappa Authentic Lucio Sweatpant",
+        "price": "$85.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45205820_066_b?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45205820_046_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45205820_066_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45205820_046_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "FILA + UO Barnet Wind Pant",
+        "price": "$69.00",
+        "pictures": {
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42797142_072_b?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42797142_072_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42797142_015_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42797142_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kappa Banda Treadwell Short",
+        "price": "$55.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45204997_001_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45204997_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": null
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45204997_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Originals Adibreak Snap Track Pant",
+        "price": "$80.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_001_d?$medium$&qlt=80&fit=constrain",
+            "061": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_061_d?$medium$&qlt=80&fit=constrain",
+            "032": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_032_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_001_s"
+                },
+                {
+                    "code": "061",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_061_s"
+                },
+                {
+                    "code": "032",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43973056_032_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Raw Hem Knit Short",
+        "price": "$29.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_042_d?$medium$&qlt=80&fit=constrain",
+            "086": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_042_d?$medium$&qlt=80&fit=constrain",
+            "042": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_042_d?$medium$&qlt=80&fit=constrain",
+            "006": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_042_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_001_s"
+                },
+                {
+                    "code": "086",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_086_s"
+                },
+                {
+                    "code": "042",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_042_s"
+                },
+                {
+                    "code": "006",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40609968_006_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Maximus Corduroy Short",
+        "price": "$44.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_079_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Maximus Corduroy Short",
+        "price": "$44.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_074_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Maximus Corduroy Short",
+        "price": "$44.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_055_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46010591_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_020_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_020_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_020_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_020_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_030_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_030_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_030_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Easton Skinny Stretch Chino Pant",
+        "price": "$49.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_006_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_006_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_006_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_006_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_073_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_066_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39460613_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion Reverse Weave Jogger Pant",
+        "price": "$64.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_004_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_001_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion Reverse Weave Jogger Pant",
+        "price": "$64.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_001_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_001_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42566356_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion Reverse Weave Shortall Overall",
+        "price": "$80.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44680858_001_d?$medium$&qlt=80&fit=constrain",
+            "006": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44680858_006_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44680858_001_s"
+                },
+                {
+                    "code": "006",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_001_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_001_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_001_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_045_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_045_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_045_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_045_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_b?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_b?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_b?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_040_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_046_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_060_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922780_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion Reverse Weave Cut Off Short",
+        "price": "$40.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44682169_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44682169_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Patterned Swim Short",
+        "price": "$39.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_d?$medium$&qlt=80&fit=constrain",
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_s"
+                },
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_s"
+                },
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Patterned Swim Short",
+        "price": "$39.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_009_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_009_d?$medium$&qlt=80&fit=constrain",
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_009_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_009_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_s"
+                },
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_s"
+                },
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Patterned Swim Short",
+        "price": "$39.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_d?$medium$&qlt=80&fit=constrain",
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_s"
+                },
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_s"
+                },
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Patterned Swim Short",
+        "price": "$39.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_d?$medium$&qlt=80&fit=constrain",
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_s"
+                },
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_s"
+                },
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Patterned Swim Short",
+        "price": "$39.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_d?$medium$&qlt=80&fit=constrain",
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_000_s"
+                },
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_015_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_059_s"
+                },
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45796083_105_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Prep Chino Short",
+        "price": "$39.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_001_d?$medium$&qlt=80&fit=constrain",
+            "033": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_033_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_023_d?$medium$&qlt=80&fit=constrain",
+            "020": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_020_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_001_s"
+                },
+                {
+                    "code": "033",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_033_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_023_s"
+                },
+                {
+                    "code": "020",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45578002_020_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stussy Leopard Water Short",
+        "price": "$60.00",
+        "pictures": {
+            "022": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44500627_022_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "022",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44500627_022_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Light Stonewash Denim Overall",
+        "price": "$79.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39798905_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39798905_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tripp NYC Top Cat Plaid Pant",
+        "price": "$79.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47154331_072_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47154331_072_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "GUESS 1981 High Rise Slim Jean",
+        "price": "$108.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45231420_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45231420_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Dragon Brocade Boxing Short",
+        "price": "$59.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46054060_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46054060_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dr. Denim Otis Light Blue Cropped Relaxed Jean",
+        "price": "$85.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Wrap Short",
+        "price": "$60.00",
+        "pictures": {
+            "005": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44936854_005_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "005",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44936854_005_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dickies 874 Straight Pant",
+        "price": "$49.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_001_d?$medium$&qlt=80&fit=constrain",
+            "061": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_061_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_023_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_001_s"
+                },
+                {
+                    "code": "061",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_061_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_023_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47061072_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Printed Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_d?$medium$&qlt=80&fit=constrain",
+            "016": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_049_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_s"
+                },
+                {
+                    "code": "016",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Printed Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_d?$medium$&qlt=80&fit=constrain",
+            "016": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_049_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_s"
+                },
+                {
+                    "code": "016",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Printed Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_d?$medium$&qlt=80&fit=constrain",
+            "016": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_049_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_s"
+                },
+                {
+                    "code": "016",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Patagonia Printed Baggies Short",
+        "price": "$55.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_049_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_d?$medium$&qlt=80&fit=constrain",
+            "016": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_049_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_023_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_067_s"
+                },
+                {
+                    "code": "016",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43924612_016_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Franz Beckenbauer Track Pant",
+        "price": "$70.00",
+        "pictures": {
+            "054": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44406569_054_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "054",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44406569_054_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas TNT Short",
+        "price": "$65.00",
+        "pictures": {
+            "043": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44937191_043_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44937191_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "043",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44937191_043_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44937191_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dickies X UO Cutoff 874 Work Pant",
+        "price": "$49.00",
+        "pictures": {
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_d?$medium$&qlt=80&fit=constrain",
+            "021": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_021_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_s"
+                },
+                {
+                    "code": "021",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_021_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Lucian Awning Stripe Volley Short",
+        "price": "$34.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46177259_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46177259_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Puma X Han Kjobenhavn Pinstripe Pant",
+        "price": "$140.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44637114_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44637114_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Lucian Drop Needle Terry Short",
+        "price": "$44.00",
+        "pictures": {
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46178687_012_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46178687_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46178687_012_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46178687_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nike Signal Short",
+        "price": "$56.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_105_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_001_d?$medium$&qlt=80&fit=constrain",
+            "041": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_041_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_105_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_001_s"
+                },
+                {
+                    "code": "041",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44891109_041_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Le Fix C6 Taped Track Pant",
+        "price": "$155.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44803419_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44803419_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion Reverse Weave Jogger Pant",
+        "price": "$64.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44679371_040_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44679371_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Three Stripes Football Short",
+        "price": "$50.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44937001_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44937001_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Calvin Klein Pinstripe Straight Pant",
+        "price": "$108.00",
+        "pictures": {
+            "042": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44406346_042_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "042",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44406346_042_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Lucian Referee Stripe Short",
+        "price": "$34.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44695591_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "G-Star Elwood Windowpane Slim Jean",
+        "price": "$170.00",
+        "pictures": {
+            "002": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44838522_002_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "002",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44838522_002_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "G-Star Elwood Pinstripe Slim Jean",
+        "price": "$170.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44838738_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44838738_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Puma X Big Sean T7 Track Pant",
+        "price": "$100.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44637338_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44637338_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pas de Mer Embroidered Logo Short",
+        "price": "$84.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44874600_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44874600_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tommy Jeans Dungaree Overall",
+        "price": "$169.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44402006_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44402006_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chums Webbed Belt Short",
+        "price": "$60.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45052537_079_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45052537_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 510 Fonzie Skinny Jean",
+        "price": "$70.00",
+        "pictures": {
+            "108": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869121_108_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "108",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44869121_108_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Dad Corduroy Cutoff Short",
+        "price": "$44.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46213641_001_d?$medium$&qlt=80&fit=constrain",
+            "023": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46213641_023_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46213641_001_s"
+                },
+                {
+                    "code": "023",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46213641_023_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vintage Overdyed Camo Fatigue Pant",
+        "price": "$59.00",
+        "pictures": {
+            "095": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47037007_095_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "095",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47037007_095_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "JieDa Side Line Cropped Jean",
+        "price": "$369.00",
+        "pictures": {
+            "107": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45052289_107_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "107",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45052289_107_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Football Short",
+        "price": "$50.00",
+        "pictures": {
+            "054": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44405249_054_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "054",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44405249_054_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 501 Harris Cutoff Cropped Jean",
+        "price": "$90.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44871929_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44871929_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aldies Goblins Climbing Short",
+        "price": "$169.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_030_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_070_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_030_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aldies Goblins Climbing Short",
+        "price": "$169.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_070_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_070_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44746295_030_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "JieDa Tuck Dye Denim Pant",
+        "price": "$329.00",
+        "pictures": {
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45052024_080_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45052024_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Black Straight Cropped Jean",
+        "price": "$49.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44708634_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Extended Sizes Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44708634_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "The North Face Class V Belted Swim Short",
+        "price": "$45.00",
+        "pictures": {
+            "033": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44013647_033_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "033",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44013647_033_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lacoste Woven Double Stripe Short",
+        "price": "$75.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44875607_072_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44875607_072_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lazy Oaf Leopard Print Pant",
+        "price": "$99.00",
+        "pictures": {
+            "029": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45985504_029_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "029",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45985504_029_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Publish Jax Pinstripe Short",
+        "price": "$68.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44639516_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44639516_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Publish Palek Side Piping Skinny Jean",
+        "price": "$140.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44651339_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44651339_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 501 Baez Cutoff Cropped Jean",
+        "price": "$90.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44871788_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44871788_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 501 Destroyed Cutoff Denim Short",
+        "price": "$58.00",
+        "pictures": {
+            "002": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600706_002_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "002",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46600706_002_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "The North Face Ambition Running Short",
+        "price": "$45.00",
+        "pictures": {
+            "009": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44013530_009_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "009",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44013530_009_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chums Chumloha Short",
+        "price": "$70.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45052305_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45052305_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lazy Oaf Check Transform Pant",
+        "price": "$105.00",
+        "pictures": {
+            "042": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45985041_042_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "042",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45985041_042_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 550 Black Wash Relaxed Jean",
+        "price": "$70.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46782124_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46782124_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aldies Lily Embroidered Sweatpant",
+        "price": "$179.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44753945_079_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44753945_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nautica Spinnaker Stripe Swim Short",
+        "price": "$59.00",
+        "pictures": {
+            "095": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_095_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "095",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_095_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nautica Spinnaker Stripe Swim Short",
+        "price": "$59.00",
+        "pictures": {
+            "095": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_049_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "095",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_095_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45515335_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "One Teaspoon Blue Storm Skinny Jean",
+        "price": "$173.00",
+        "pictures": {
+            "106": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "106",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "One Teaspoon Mr. Blues Light Stonewash Skinny Jean",
+        "price": "$173.00",
+        "pictures": {
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017447_012_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47017447_012_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "G-Star Elwood Houndstooth Slim Jean",
+        "price": "$170.00",
+        "pictures": {
+            "008": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44838217_008_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "008",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44838217_008_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "G-Star Elwood Pinstripe Slim Jean",
+        "price": "$170.00",
+        "pictures": {
+            "029": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44838399_029_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "029",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44838399_029_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Acid Rain Wash Straight Cropped Jean",
+        "price": "$54.00",
+        "pictures": {
+            "002": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46236014_002_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "002",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46236014_002_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Ecru Dad Jean",
+        "price": "$54.00",
+        "pictures": {
+            "024": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "024",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Calvin Klein Glass Slim Jean",
+        "price": "$90.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44404275_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44404275_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Boardies Palmtopia Floral Swim Short",
+        "price": "$70.00",
+        "pictures": {
+            "045": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "045",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Indigo Straight Cropped Jean",
+        "price": "$49.00",
+        "pictures": {
+            "108": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44708824_108_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "108",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44708824_108_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 541 Desperado Athletic Jean",
+        "price": "$70.00",
+        "pictures": {
+            "107": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46781829_107_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "107",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46781829_107_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Levi’s 550 Rinse Relaxed Jean",
+        "price": "$70.00",
+        "pictures": {
+            "094": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46782447_094_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "094",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46782447_094_s"
+                }
+            ]
+        }
+    }
+]

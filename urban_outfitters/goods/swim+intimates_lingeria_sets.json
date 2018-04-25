@@ -1,0 +1,898 @@
+[
+	{
+		"name": "Tommy Hilfiger Plunging Bralette",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44850782_060_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44850782_060_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "060",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44850782_060_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44850782_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Mesh Panel Hipster",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_060_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_060_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "060",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_060_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Seamless Ribbed Bra",
+		"price": "$30.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43667740_004_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43667740_004_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "004",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43667740_004_s"
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Seamless Ribbed High-Waisted Undie",
+		"price": "$20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43666759_004_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43666759_004_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "004",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43666759_004_s"
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Striped Band Triangle Bra",
+		"price": "$32.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43667385_010_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43667385_010_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "010",
+				"image": null
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Striped Band Thong",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43666635_010_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43666635_010_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "010",
+				"image": null
+			}
+		}
+	},
+	{
+		"name": "Calvin Klein X UO Modern Cotton Racerback Bralette",
+		"price": "$34.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_012_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_012_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "012",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_012_s"
+			}
+		}
+	},
+	{
+		"name": "Calvin Klein X UO Modern Cotton Thong",
+		"price": "$22.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43690163_012_b?$medium$&qlt=80&fit=constrain",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43690163_012_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "012",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43690163_012_s"
+			}
+		}
+	},
+	{
+		"name": "Out From Under Juney Halter Bra Top",
+		"price": "$24.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45890118_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "015",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45890118_015_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45890118_001_s"
+				},
+				{
+					"code": "009",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45890118_009_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Alavarado Short",
+		"price": "$24.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45899762_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "029",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45899762_029_s"
+				},
+				{
+					"code": "039",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45899762_039_s"
+				},
+				{
+					"code": "001",
+					"image": null
+				}
+			]
+		}
+	},
+	{
+		"name": "Real Borderline Triangle Bra",
+		"price": "$20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45898780_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"Online Only",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45898780_001_s"
+				},
+				{
+					"code": "043",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45898780_043_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45898780_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Real Borderline Bikini",
+		"price": "$10.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45899432_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"Online Only",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45899432_001_s"
+				},
+				{
+					"code": "043",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45899432_043_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45899432_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Modern Cotton Racerback Bralette",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_089_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "089",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_089_s"
+				},
+				{
+					"code": "030",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_s"
+				},
+				{
+					"code": "046",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_046_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_001_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Modern Cotton Thong",
+		"price": "$20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35197938_046_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"Online Only",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35197938_065_s"
+				},
+				{
+					"code": "046",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35197938_046_s"
+				},
+				{
+					"code": "040",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35197938_040_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35197938_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Modern Cotton Triangle Bra",
+		"price": "$36.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38792354_012_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "012",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792354_012_s"
+				},
+				{
+					"code": "063",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792354_063_s"
+				},
+				{
+					"code": "022",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792354_022_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792354_001_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Modern Cotton Tanga",
+		"price": "$22.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_012_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "012",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_012_s"
+				},
+				{
+					"code": "063",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_063_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_001_s"
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_065_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38792917_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Body Unlined Cutout Bralette",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45143922_030_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": null,
+		"colors": {
+			"items": {
+				"code": "030",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45143922_030_s"
+			}
+		}
+	},
+	{
+		"name": "Calvin Klein Trunk",
+		"price": "$22.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45151263_030_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "030",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45151263_030_s"
+				},
+				{
+					"code": "010",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45151263_010_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45151263_001_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45151263_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Body Unlined Bralette",
+		"price": "$32.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45140282_010_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "001",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45140282_001_s"
+			}
+		}
+	},
+	{
+		"name": "Calvin Klein Heritage Triangle Bralette",
+		"price": "$32.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_027_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_001_s"
+				},
+				{
+					"code": "027",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_027_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_004_s"
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_065_s"
+				},
+				{
+					"code": "013",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45650454_013_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Heritage Tanga",
+		"price": "$20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_027_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_001_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_004_s"
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_065_s"
+				},
+				{
+					"code": "027",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_027_s"
+				},
+				{
+					"code": "013",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45651114_013_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Izzy Sparkle Triangle Bra",
+		"price": "now $20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42636530_052_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42636530_001_s"
+				},
+				{
+					"code": "052",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42636530_052_s"
+				},
+				{
+					"code": "064",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42636530_064_s"
+				},
+				{
+					"code": "005",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42636530_005_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Izzy Sparkle Thong",
+		"price": "$8.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42637058_052_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "052",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42637058_052_s"
+				},
+				{
+					"code": "064",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42637058_064_s"
+				},
+				{
+					"code": "005",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42637058_005_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Velvet Triangle Bra",
+		"price": "$36.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43654904_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": null
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43654904_065_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Calvin Klein Velvet Tanga",
+		"price": "$24.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43656420_001_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "001",
+					"image": null
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43656420_065_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Marlo Shiny Micro Knit Triangle Bra",
+		"price": "$24.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41657537_023_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "031",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41657537_031_s"
+				},
+				{
+					"code": "023",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41657537_023_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Marlo Shiny Micro Knit Thong",
+		"price": "$8.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41658196_023_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "023",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41658196_023_s"
+			}
+		}
+	},
+	{
+		"name": "Out From Under Markie Seamless Ribbed Bra",
+		"price": "$16.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39740865_082_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "074",
+					"image": null
+				},
+				{
+					"code": "105",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39740865_105_s"
+				},
+				{
+					"code": "061",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39740865_061_s"
+				},
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39740865_004_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Out From Under Markie Seamless Ribbed Bikini",
+		"price": "$8.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39741244_082_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "082",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39741244_082_s"
+				},
+				{
+					"code": "001",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39741244_001_s"
+				},
+				{
+					"code": "010",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39741244_010_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Seamless Bandeau Bra",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40817520_010_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "010",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40817520_010_s"
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Seamless Bikini",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43313477_010_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "010",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43313477_010_s"
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Strappy Scoop Neck Bra",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44849503_041_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "041",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44849503_041_s"
+				},
+				{
+					"code": "010",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44849503_010_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Modal Scoop Neck Bralette",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44851012_060_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "060",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44851012_060_s"
+			}
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Strappy Side Hipster",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44851822_041_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "041",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44851822_041_s"
+				},
+				{
+					"code": "010",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44851822_010_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger Modal Thong",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44853489_060_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "060",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44853489_060_s"
+			}
+		}
+	},
+	{
+		"name": "Out From Under Ferris Color Pop Short",
+		"price": "$34.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46047197_009_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": {
+				"code": "009",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46047197_009_s"
+			}
+		}
+	},
+	{
+		"name": "Out From Under Farris Color Pop Bra",
+		"price": "$29.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46063087_009_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"Online Only",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": {
+				"code": "009",
+				"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46063087_009_s"
+			}
+		}
+	},
+	{
+		"name": "Calvin Klein Modern Cotton Striped Bikini",
+		"price": "$20.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45659612_009_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": [
+			"New Colors Available",
+			"Matching Item Available"
+		],
+		"colors": {
+			"items": [
+				{
+					"code": "009",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45659612_009_s"
+				},
+				{
+					"code": "030",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45659612_030_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger X UO Seamless Bikini",
+		"price": "$18.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46014965_004_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46014965_004_s"
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46014965_065_s"
+				},
+				{
+					"code": "060",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46014965_060_s"
+				}
+			]
+		}
+	},
+	{
+		"name": "Tommy Hilfiger X UO Racerback Bra",
+		"price": "$28.00",
+		"pictures": {
+			"main": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"alt": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_004_d?$medium$&qlt=80&fit=constrain"
+		},
+		"badge": "Matching Item Available",
+		"colors": {
+			"items": [
+				{
+					"code": "004",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_004_s"
+				},
+				{
+					"code": "065",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_065_s"
+				},
+				{
+					"code": "060",
+					"image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_060_s"
+				}
+			]
+		}
+	}
+]

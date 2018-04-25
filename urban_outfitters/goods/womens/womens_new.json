@@ -1,0 +1,1942 @@
+[
+    {
+        "name": "Out From Under Nevada Sweatshirt",
+        "price": "$49.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46320685_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46320685_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion & UO Arm Logo Hoodie Sweatshirt",
+        "price": "$69.00",
+        "pictures": {
+            "073": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46476321_073_d?$medium$&qlt=80&fit=constrain",
+            "068": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46476321_068_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "073",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46476321_073_s"
+                },
+                {
+                    "code": "068",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46476321_068_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Calvin Klein Modern Cotton Racerback Bralette",
+        "price": "$28.00",
+        "pictures": {
+            "089": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "New Colors Available",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "089",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_089_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_030_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_046_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35195783_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nike Outburst OG Sneaker",
+        "price": "$90.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47036314_060_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47036314_046_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47036314_060_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47036314_046_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Striped Capri Jean",
+        "price": "$64.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46117503_000_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46117503_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Argentina Soccer Top",
+        "price": "$90.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44932861_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44932861_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Satin Track Short",
+        "price": "$50.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44932705_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44932705_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Beyond Retro Dean Sporty Backpack",
+        "price": "$65.00",
+        "pictures": {
+            "095": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46848776_095_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "095",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46848776_095_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Camper TWINS Mismatch Sandal",
+        "price": "$199.00",
+        "pictures": {
+            "095": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44991123_095_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "095",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44991123_095_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tommy Hilfiger Mesh Panel Hipster",
+        "price": "$18.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_060_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "New Colors Available",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_060_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44852564_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO The Little Brother Tee",
+        "price": "$20.00",
+        "pictures": {
+            "045": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_049_d?$medium$&qlt=80&fit=constrain",
+            "085": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_049_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_049_d?$medium$&qlt=80&fit=constrain",
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "045",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_045_s"
+                },
+                {
+                    "code": "085",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_085_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_049_s"
+                },
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46091567_059_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Florence Wrap Cropped Top",
+        "price": "$24.00",
+        "pictures": {
+            "086": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_086_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_001_d?$medium$&qlt=80&fit=constrain",
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "086",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_086_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": null
+                },
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45951340_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sage And Stone Tea Bags",
+        "price": "$16.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47309398_004_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47309398_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47309398_004_s"
+                },
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47309398_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Faithfull The Brand Garnier Linen Bra Top",
+        "price": "$129.00",
+        "pictures": {
+            "020": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45290301_020_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45290301_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "020",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45290301_020_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45290301_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Crap Eyewear The Tuff Safari Sunglasses",
+        "price": "$79.00",
+        "pictures": {
+            "007": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46421467_065_d?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46421467_065_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "007",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46421467_007_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46421467_065_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Strapless Button-Down Jumpsuit",
+        "price": "$79.00",
+        "pictures": {
+            "086": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46029781_086_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "086",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46029781_086_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "House Of Sunny Utility Workwear Jacket",
+        "price": "$99.00",
+        "pictures": {
+            "024": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45343464_024_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "024",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45343464_024_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Faithfull The Brand Tomas Linen Cropped Flare Pant",
+        "price": "$189.00",
+        "pictures": {
+            "020": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291010_020_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291010_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available",
+            "Matching Item Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "020",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45291010_020_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45291010_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Harper + Ari Brunch Collection Exfoliating Sugar Cubes",
+        "price": "$12.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918132_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46918132_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion & UO Products Sweatshirt",
+        "price": "$59.00",
+        "pictures": {
+            "068": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46475679_068_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "068",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46475679_068_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Missouri Grommet Overall",
+        "price": "$89.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46144986_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46144986_030_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cecilia Delicate Triangle Pendant Necklace",
+        "price": "$16.00",
+        "pictures": {
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_046_d?$medium$&qlt=80&fit=constrain",
+            "068": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_068_d?$medium$&qlt=80&fit=constrain",
+            "085": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_085_d?$medium$&qlt=80&fit=constrain",
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_070_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_046_s"
+                },
+                {
+                    "code": "068",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_068_s"
+                },
+                {
+                    "code": "085",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_085_s"
+                },
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45331170_070_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nike Air Span II Sneaker",
+        "price": "$95.00",
+        "pictures": {
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44102044_011_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44102044_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "011",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44102044_011_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44102044_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Adelaide Wrap Bodysuit",
+        "price": "$29.00",
+        "pictures": {
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46364758_031_d?$medium$&qlt=80&fit=constrain",
+            "009": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46364758_009_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46364758_031_s"
+                },
+                {
+                    "code": "009",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46364758_009_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Lafayette Button-Down Cropped Top",
+        "price": "$49.00",
+        "pictures": {
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46063541_079_d?$medium$&qlt=80&fit=constrain",
+            "036": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46063541_036_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46063541_079_s"
+                },
+                {
+                    "code": "036",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46063541_036_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fjallraven Kanken 15” Padded Laptop Backpack",
+        "price": "$115.00",
+        "pictures": {
+            "006": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_d?$medium$&qlt=80&fit=constrain",
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_d?$medium$&qlt=80&fit=constrain",
+            "041": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "006",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_006_s"
+                },
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_031_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_060_s"
+                },
+                {
+                    "code": "041",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_041_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44752772_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Drop Needle Tube Top",
+        "price": "now $10.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_049_d?$medium$&qlt=80&fit=constrain",
+            "005": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_049_d?$medium$&qlt=80&fit=constrain",
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_049_d?$medium$&qlt=80&fit=constrain",
+            "074": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_010_s"
+                },
+                {
+                    "code": "005",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_005_s"
+                },
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_049_s"
+                },
+                {
+                    "code": "074",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42964296_074_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Germany Soccer Top",
+        "price": "$90.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44933224_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44933224_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "FILA + UO Double Logo Crew-Neck Sweatshirt",
+        "price": "$55.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45667391_001_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45667391_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45667391_001_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45667391_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Rolling Stones International Lips Tee",
+        "price": "$34.00",
+        "pictures": {
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298633_011_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "011",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47298633_011_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BLQ BASIQ Tank Mini Dress",
+        "price": "$79.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46706669_004_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46706669_004_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "FILA + UO Cropped Hoodie Sweatshirt",
+        "price": "$65.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45667847_060_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45667847_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45667847_060_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45667847_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Originals Superstar Trefoil Track Pant",
+        "price": "$65.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44932754_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44932754_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nike Air Force 1 SE Sneaker",
+        "price": "$100.00",
+        "pictures": {
+            "018": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47068366_018_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47068366_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "018",
+                    "image": null
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47068366_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Retro Knit Quarter-Zip Sweater Top",
+        "price": "$60.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44933695_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44933695_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Striped Tube Top Jumpsuit",
+        "price": "$89.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45987880_070_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45987880_070_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion + UO Logo Tee",
+        "price": "$40.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47462932_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Blue Life Eclipse Embroidered One-Piece Swimsuit",
+        "price": "$198.00",
+        "pictures": {
+            "071": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46381687_071_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "071",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46381687_071_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Satin Wide-Leg Track Pant",
+        "price": "$75.00",
+        "pictures": {
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44933331_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44933331_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Originals Samba Leather Sneaker",
+        "price": "$100.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41908542_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41908542_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41908542_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41908542_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Dolores Tie-Front Cropped Tank Top",
+        "price": "$39.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46276457_072_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46276457_072_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Electric Dreams Tee",
+        "price": "$29.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46452835_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vagabond Bonnie Platform Sandal",
+        "price": "$120.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44690030_060_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44690030_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": null
+                },
+                {
+                    "code": "010",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "ASTR Connie Lace Cropped Top",
+        "price": "$88.00",
+        "pictures": {
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45686896_011_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "011",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Marguerita Cut-Out Mini Dress",
+        "price": "$59.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_d?$medium$&qlt=80&fit=constrain",
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_001_s"
+                },
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_079_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mr. Boho Jordaan Round Sunglasses",
+        "price": "$85.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46804647_060_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46804647_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46804647_072_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46804647_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "OBEY Homesick Striped Mini Dress",
+        "price": "$62.00",
+        "pictures": {
+            "089": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45559341_089_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "089",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45559341_089_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Micah Crochet Solid One-Piece Swimsuit",
+        "price": "$72.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Clarissa Seamless Bra",
+        "price": "$18.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_060_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_d?$medium$&qlt=80&fit=constrain",
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_011_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_060_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_s"
+                },
+                {
+                    "code": "011",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_011_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Brixton Field Hat",
+        "price": "$58.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_001_d?$medium$&qlt=80&fit=constrain",
+            "025": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_025_d?$medium$&qlt=80&fit=constrain",
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_031_d?$medium$&qlt=80&fit=constrain",
+            "002": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_002_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_001_s"
+                },
+                {
+                    "code": "025",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_025_s"
+                },
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42957167_031_s"
+                },
+                {
+                    "code": "002",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Clarissa Seamless Bra",
+        "price": "$18.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_d?$medium$&qlt=80&fit=constrain",
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_060_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_001_s"
+                },
+                {
+                    "code": "011",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45997889_011_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Venessa Arizaga Peace Beaded Bracelet",
+        "price": "$115.00",
+        "pictures": {
+            "014": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45345766_014_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "014",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45345766_014_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Champion & UO Cropped Hoodie Sweatshirt",
+        "price": "$69.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46953022_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46953022_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jeepers Peepers Cat-Eye Sunglasses",
+        "price": "$18.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_072_d?$medium$&qlt=80&fit=constrain",
+            "085": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_085_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_001_d?$medium$&qlt=80&fit=constrain",
+            "034": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_034_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": null
+                },
+                {
+                    "code": "085",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_085_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_001_s"
+                },
+                {
+                    "code": "034",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44982569_034_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Bella Halter Bodysuit",
+        "price": "$29.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_010_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_060_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_010_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_060_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46612859_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Skechers D’Lites One Piece Sneaker",
+        "price": "$80.00",
+        "pictures": {
+            "018": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194774_018_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "018",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47194774_018_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kappa X UO Tessie Oversized Hoodie Sweatshirt",
+        "price": "$110.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44936482_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44936482_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sublime Tie-Dye Tee",
+        "price": "$39.00",
+        "pictures": {
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46996054_059_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46996054_059_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Charlotte Stone Marcel Leather Platform Sandal",
+        "price": "$296.00",
+        "pictures": {
+            "014": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45137122_014_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "014",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45137122_014_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Urban Renewal Remnants Structured Striped Cropped Top",
+        "price": "$44.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47055207_072_d?$medium$&qlt=80&fit=constrain",
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47055207_012_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47055207_072_s"
+                },
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47055207_012_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dolce Vita Espadrille Platform Sandal",
+        "price": "$120.00",
+        "pictures": {
+            "014": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45546983_014_d?$medium$&qlt=80&fit=constrain",
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45546983_012_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "014",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45546983_014_s"
+                },
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45546983_012_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Tally Tiered Floral Maxi Dress",
+        "price": "$149.00",
+        "pictures": {
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45824729_015_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45824729_015_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Yellow Lace Halter Bra",
+        "price": "$20.00",
+        "pictures": {
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/31011844_080_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/31011844_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Originals Adilette Slide",
+        "price": "$45.00",
+        "pictures": {
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_012_d?$medium$&qlt=80&fit=constrain",
+            "018": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_018_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_012_s"
+                },
+                {
+                    "code": "018",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_018_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/30168843_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Brendan Button-Down Linen Shirt",
+        "price": "$59.00",
+        "pictures": {
+            "022": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_022_d?$medium$&qlt=80&fit=constrain",
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_031_d?$medium$&qlt=80&fit=constrain",
+            "032": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_032_d?$medium$&qlt=80&fit=constrain",
+            "029": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_029_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "022",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_022_s"
+                },
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_031_s"
+                },
+                {
+                    "code": "032",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_032_s"
+                },
+                {
+                    "code": "029",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45439858_029_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Essential Hoop Earring",
+        "price": "$18.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46458816_070_d?$medium$&qlt=80&fit=constrain",
+            "007": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46458816_007_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46458816_070_s"
+                },
+                {
+                    "code": "007",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46458816_007_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Greta Textured Button-Down Top",
+        "price": "$54.00",
+        "pictures": {
+            "025": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46460119_025_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "025",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46460119_025_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Asics Gel Mai Pink Sneaker",
+        "price": "$130.00",
+        "pictures": {
+            "082": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44996379_082_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "082",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44996379_082_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Moon River Striped Wrap Dress",
+        "price": "$79.00",
+        "pictures": {
+            "069": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46757662_069_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "069",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46757662_069_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vita Liberata Trystal Minerals Self-Tanning Bronzer",
+        "price": "$55.00",
+        "pictures": {
+            "016": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46795142_016_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "016",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46795142_016_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Striped Faux Suede Mini Dress",
+        "price": "$49.00",
+        "pictures": {
+            "029": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46612099_029_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "029",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46612099_029_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lena Half-Moon Statement Hoop Earring",
+        "price": "$18.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46089694_070_d?$medium$&qlt=80&fit=constrain",
+            "007": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46089694_007_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46089694_070_s"
+                },
+                {
+                    "code": "007",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46089694_007_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Love + Harmony Tie-Front Maxi Dress",
+        "price": "$62.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47248687_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47248687_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Urban Renewal Remnants High-Rise Linen Short",
+        "price": "$49.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47365804_066_d?$medium$&qlt=80&fit=constrain",
+            "022": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47365804_022_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47365804_066_s"
+                },
+                {
+                    "code": "022",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47365804_022_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Birkenstock Arizona Soft Footbed Leather Slide",
+        "price": "$135.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44644409_066_d?$medium$&qlt=80&fit=constrain",
+            "046": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44644409_046_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "New Colors Available"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44644409_066_s"
+                },
+                {
+                    "code": "046",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44644409_046_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "ASTR Camille Tie-Front Top",
+        "price": "$78.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45686722_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45686722_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Triangle Racerback Bikini Top",
+        "price": "$39.00",
+        "pictures": {
+            "101": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_082_d?$medium$&qlt=80&fit=constrain",
+            "104": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_082_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_082_d?$medium$&qlt=80&fit=constrain",
+            "044": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_082_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_s"
+                },
+                {
+                    "code": "044",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_044_s"
+                },
+                {
+                    "code": "101",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_s"
+                },
+                {
+                    "code": "104",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Frankie Button-Down Midi Skirt",
+        "price": "$59.00",
+        "pictures": {
+            "049": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46764783_049_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "049",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46764783_049_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Urban Renewal Recycled Color Pop Corduroy Button-Down Shirt",
+        "price": "$49.00",
+        "pictures": {
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46876157_080_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46876157_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46876157_080_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46876157_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Cali Button-Down Mini Dress",
+        "price": "$69.00",
+        "pictures": {
+            "009": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46214805_009_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "009",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46214805_009_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Soko Statement Hoop Earring",
+        "price": "$48.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46678439_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46678439_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Crochet Bra Top",
+        "price": "$34.00",
+        "pictures": {
+            "054": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46129300_054_d?$medium$&qlt=80&fit=constrain",
+            "011": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46129300_011_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "054",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46129300_054_s"
+                },
+                {
+                    "code": "011",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46129300_011_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Pippa Halter Mini Dress",
+        "price": "$59.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46073946_001_d?$medium$&qlt=80&fit=constrain",
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46073946_072_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": null
+                },
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46073946_072_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Drop-Waist Babydoll Frock Dress",
+        "price": "$49.00",
+        "pictures": {
+            "054": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_018_d?$medium$&qlt=80&fit=constrain",
+            "006": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_018_d?$medium$&qlt=80&fit=constrain",
+            "018": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_018_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "054",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_054_s"
+                },
+                {
+                    "code": "006",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_006_s"
+                },
+                {
+                    "code": "018",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46461497_018_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tommy Hilfiger X UO Racerback Bra",
+        "price": "$28.00",
+        "pictures": {
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_004_d?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_065_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_004_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_065_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46012944_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "BDG Camo Cargo Short",
+        "price": "$59.00",
+        "pictures": {
+            "015": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46735569_015_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "015",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46735569_015_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Embroidered Tokyo Cropped Tee",
+        "price": "$34.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46929873_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46929873_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nike Vandal High Supreme Sneaker",
+        "price": "$90.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45113966_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45113966_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Ponte Bodycon Strapless Dress",
+        "price": "$49.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46846754_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "adidas Originals Relaxed Strapback Baseball Hat",
+        "price": "$24.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_001_d?$medium$&qlt=80&fit=constrain",
+            "031": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_031_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_001_s"
+                },
+                {
+                    "code": "031",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_031_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40865644_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Out From Under Black Triangle Racerback Bikini Top",
+        "price": "$39.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Marguerita Cut-Out Mini Dress",
+        "price": "$59.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_001_d?$medium$&qlt=80&fit=constrain",
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_079_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_001_s"
+                },
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_079_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46045472_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Dolores Cropped Pant",
+        "price": "$49.00",
+        "pictures": {
+            "072": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46276556_072_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Matching Item Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "072",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46276556_072_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Wood Handle Stripe Macrame Tote Bag",
+        "price": "$44.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46046033_001_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46046033_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46046033_030_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46046033_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Reversible Kimono",
+        "price": "$109.00",
+        "pictures": {
+            "041": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45985348_041_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "041",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45985348_041_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vans Cream Old Skool Sneaker",
+        "price": "$65.00",
+        "pictures": {
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45739737_012_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45739737_012_s"
+                }
+            ]
+        }
+    }
+]

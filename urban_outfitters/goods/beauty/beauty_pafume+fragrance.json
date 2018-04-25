@@ -1,0 +1,620 @@
+[
+    {
+        "name": "Gourmand EDP Fragrance",
+        "price": "$18.00",
+        "pictures": {
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_080_d?$medium$&qlt=80&fit=constrain",
+            "062": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_062_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_010_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_080_s"
+                },
+                {
+                    "code": "062",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_062_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_010_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35402403_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bella Freud Eau De Parfum",
+        "price": "$125.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_000_d?$medium$&qlt=80&fit=constrain",
+            "013": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_013_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_000_s"
+                },
+                {
+                    "code": "013",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_013_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46726915_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Petal Perfume Oil",
+        "price": "$18.00",
+        "pictures": {
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_060_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_066_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_067_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_060_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_066_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35420512_067_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Adorn EDP Fragrance",
+        "price": "$24.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_000_b?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_065_b?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_050_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_000_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_065_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/36916526_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gourmand Hair + Body Mist",
+        "price": "$24.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_010_b?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_050_b?$medium$&qlt=80&fit=constrain",
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_040_b?$medium$&qlt=80&fit=constrain",
+            "079": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_079_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_010_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_050_s"
+                },
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_040_s"
+                },
+                {
+                    "code": "079",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/38232591_079_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Petal Multi-Use Oil",
+        "price": "$28.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_066_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_067_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_066_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_067_s"
+                },
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/35419241_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gourmand Candle",
+        "price": "$14.00",
+        "pictures": {
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_050_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_010_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_030_d?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_065_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_050_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_010_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_030_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40888190_065_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Adorn Hydrating Hair Oil + Perfume",
+        "price": "$18.00",
+        "pictures": {
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44088136_050_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44088136_050_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hyper Naturals EDP Fragrance",
+        "price": "$18.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_030_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_030_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hyper Naturals EDP Fragrance",
+        "price": "$18.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_030_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hyper Naturals EDP Fragrance",
+        "price": "$18.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_030_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_066_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46283784_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Roll-On Fragrance Oil",
+        "price": "$50.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Roll-On Fragrance Oil",
+        "price": "$50.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_000_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Roll-On Fragrance Oil",
+        "price": "$50.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888393_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Elizabeth And James Nirvana Perfume Oil",
+        "price": "$35.00",
+        "pictures": {
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45266715_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45266715_001_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45266715_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45266715_001_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Derek Lam 10 Crosby Eau De Parfum Travel Spray",
+        "price": "$25.00",
+        "pictures": {
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_030_d?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_065_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_010_d?$medium$&qlt=80&fit=constrain",
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_001_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_060_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_030_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_065_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_010_s"
+                },
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_001_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265147_060_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Candle",
+        "price": "$48.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_001_s"
+                },
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Candle",
+        "price": "$48.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_001_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_001_s"
+                },
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Riddle Oil Candle",
+        "price": "$48.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_d?$medium$&qlt=80&fit=constrain",
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_001_s"
+                },
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_000_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45888880_010_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Elizabeth And James Nirvana Rollerball Eau De Parfum",
+        "price": "$28.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_001_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_060_d?$medium$&qlt=80&fit=constrain",
+            "020": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_020_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_001_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_060_s"
+                },
+                {
+                    "code": "020",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45265840_020_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Derek Lam 10 Crosby Parfum Stick",
+        "price": "$38.00",
+        "pictures": {
+            "001": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_001_d?$medium$&qlt=80&fit=constrain",
+            "010": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_010_d?$medium$&qlt=80&fit=constrain",
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_065_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_060_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "001",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_001_s"
+                },
+                {
+                    "code": "010",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_010_s"
+                },
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_065_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_060_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45264884_030_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Botanique Candle",
+        "price": "$20.00",
+        "pictures": {
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_066_d?$medium$&qlt=80&fit=constrain",
+            "007": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_007_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_030_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_080_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_066_s"
+                },
+                {
+                    "code": "007",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_007_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_030_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40000168_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jupiter Candle",
+        "price": "$24.00",
+        "pictures": {
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43694231_095_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43694231_070_s"
+                }
+            ]
+        }
+    }
+]

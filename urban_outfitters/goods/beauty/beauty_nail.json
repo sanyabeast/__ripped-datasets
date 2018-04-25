@@ -1,0 +1,701 @@
+[
+    {
+        "name": "Static Nails All-In-One Pop-On Manicure Kit",
+        "price": "$16.00",
+        "pictures": {
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40725368_065_b?$medium$&qlt=80&fit=constrain",
+            "090": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40725368_090_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": [
+            "Online Only",
+            "Back in Stock"
+        ],
+        "colors": {
+            "items": [
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40725368_065_s"
+                },
+                {
+                    "code": "090",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40725368_090_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Mood Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "005": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_005_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_050_d?$medium$&qlt=80&fit=constrain",
+            "004": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_004_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_066_d?$medium$&qlt=80&fit=constrain",
+            "045": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_045_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "005",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_005_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_050_s"
+                },
+                {
+                    "code": "004",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_004_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_066_s"
+                },
+                {
+                    "code": "045",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44342004_045_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_059_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_059_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_059_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_059_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_102_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_102_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_102_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_102_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_013_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_013_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_013_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_013_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_046_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_046_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_046_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_046_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_065_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_065_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_065_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_065_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_000_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_000_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_000_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "053": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_d?$medium$&qlt=80&fit=constrain",
+            "050": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_d?$medium$&qlt=80&fit=constrain",
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "053",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_053_s"
+                },
+                {
+                    "code": "050",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_050_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_066_s"
+                },
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46298956_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Sparkle Collection Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "112": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_112_d?$medium$&qlt=80&fit=constrain",
+            "026": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_026_d?$medium$&qlt=80&fit=constrain",
+            "028": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_028_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "026",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_026_s"
+                },
+                {
+                    "code": "028",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_028_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_030_s"
+                },
+                {
+                    "code": "112",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_112_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Little Ondine Natural Nail Polish",
+        "price": "$14.00",
+        "pictures": {
+            "059": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_059_d?$medium$&qlt=80&fit=constrain",
+            "060": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_060_d?$medium$&qlt=80&fit=constrain",
+            "070": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_070_d?$medium$&qlt=80&fit=constrain",
+            "013": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_013_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "New Colors Available",
+        "colors": {
+            "items": [
+                {
+                    "code": "059",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_059_s"
+                },
+                {
+                    "code": "060",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_060_s"
+                },
+                {
+                    "code": "070",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_070_s"
+                },
+                {
+                    "code": "013",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47008800_013_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Neutrals Collection Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "904": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_904_d?$medium$&qlt=80&fit=constrain",
+            "919": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_919_d?$medium$&qlt=80&fit=constrain",
+            "925": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_925_d?$medium$&qlt=80&fit=constrain",
+            "928": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_928_d?$medium$&qlt=80&fit=constrain",
+            "074": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_074_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "074",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_074_s"
+                },
+                {
+                    "code": "919",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_919_s"
+                },
+                {
+                    "code": "925",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_925_s"
+                },
+                {
+                    "code": "928",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_928_s"
+                },
+                {
+                    "code": "904",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_904_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hologram Nail Polish",
+        "price": "$10.00",
+        "pictures": {
+            "007": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/26685180_007_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/26685180_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "007",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/26685180_007_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/26685180_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Shimmer Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "102": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_102_d?$medium$&qlt=80&fit=constrain",
+            "013": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_013_d?$medium$&qlt=80&fit=constrain",
+            "067": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_067_d?$medium$&qlt=80&fit=constrain",
+            "040": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_040_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "013",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_013_s"
+                },
+                {
+                    "code": "102",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_102_s"
+                },
+                {
+                    "code": "067",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_067_s"
+                },
+                {
+                    "code": "040",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46812137_040_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Classics Collection Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "110": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_110_d?$medium$&qlt=80&fit=constrain",
+            "003": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_003_d?$medium$&qlt=80&fit=constrain",
+            "029": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_029_d?$medium$&qlt=80&fit=constrain",
+            "030": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_030_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "003",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_003_s"
+                },
+                {
+                    "code": "029",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_029_s"
+                },
+                {
+                    "code": "030",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_030_s"
+                },
+                {
+                    "code": "110",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_110_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Iridescent Top Coat Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40449795_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40449795_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Matte Top Coat Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "012": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/31089550_012_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "012",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/31089550_012_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Neons Collection Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_105_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_105_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Neons Collection Nail Polish",
+        "price": "$5.00",
+        "pictures": {
+            "105": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_066_d?$medium$&qlt=80&fit=constrain",
+            "066": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_066_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "105",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_105_s"
+                },
+                {
+                    "code": "066",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/20611299_066_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Raw Gem Top Coat Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "000": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42725465_000_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "000",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42725465_000_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "NAF! Salon Cuticle Oil Pen",
+        "price": "$8.00",
+        "pictures": {
+            "080": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43438092_080_b?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": "Online Only",
+        "colors": {
+            "items": [
+                {
+                    "code": "080",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43438092_080_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Emoji Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_003_d?$medium$&qlt=80&fit=constrain",
+            "003": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_003_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_065_s"
+                },
+                {
+                    "code": "003",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_003_s"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UO Emoji Nail Polish",
+        "price": "$6.00",
+        "pictures": {
+            "065": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_065_d?$medium$&qlt=80&fit=constrain",
+            "003": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_003_d?$medium$&qlt=80&fit=constrain"
+        },
+        "badge": null,
+        "colors": {
+            "items": [
+                {
+                    "code": "065",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_065_s"
+                },
+                {
+                    "code": "003",
+                    "image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40292591_003_s"
+                }
+            ]
+        }
+    }
+]
