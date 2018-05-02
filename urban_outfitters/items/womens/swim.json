@@ -1,0 +1,3702 @@
+{
+	"items": [
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Mara Underwire Bikini Top",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43616853_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Mara High-Waisted Bikini Bottom",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43655257_060_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Back High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Maria Printed Minimal One-Piece Swimsuit",
+			"price": "$72.00",
+			"colors": [
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823540_072_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Triangle Racerback Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Black Floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Slinky Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_080_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Tie-Front One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_009_s"
+				},
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_s"
+				},
+				{
+					"code": "018",
+					"title": "Black & white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_009_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Tie-Front One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_009_s"
+				},
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_s"
+				},
+				{
+					"code": "018",
+					"title": "Black & white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Printed Tie-Front One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_009_s"
+				},
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_s"
+				},
+				{
+					"code": "018",
+					"title": "Black & white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Printed Tie-Front One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_095_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_009_s"
+				},
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_050_s"
+				},
+				{
+					"code": "018",
+					"title": "Black & white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40789828_018_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Billabong Flora Beat Bandeau Bikini Top",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "018",
+					"title": "Black + White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765252_018_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Billabong Flora Beat Tie-Side Bikini Bottom",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "018",
+					"title": "Black + White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45765393_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765393_018_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765393_018_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765393_018_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45765393_018_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Casey Printed Strappy Back One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_s"
+				},
+				{
+					"code": "081",
+					"title": "Dark Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_s"
+				},
+				{
+					"code": "060",
+					"title": "Orange Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Casey Printed Strappy Back One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_s"
+				},
+				{
+					"code": "081",
+					"title": "Dark Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_s"
+				},
+				{
+					"code": "060",
+					"title": "Orange Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Casey Printed Strappy Back One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_s"
+				},
+				{
+					"code": "081",
+					"title": "Dark Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_s"
+				},
+				{
+					"code": "060",
+					"title": "Orange Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Casey Printed Strappy Back One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_095_s"
+				},
+				{
+					"code": "081",
+					"title": "Dark Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_081_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_009_s"
+				},
+				{
+					"code": "060",
+					"title": "Orange Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44822989_060_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Printed Underwire Demi Bikini Top",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_s"
+				},
+				{
+					"code": "018",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Out From Under Printed Underwire Demi Bikini Top",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_s"
+				},
+				{
+					"code": "018",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Underwire Demi Bikini Top",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_080_s"
+				},
+				{
+					"code": "018",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565011_071_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Underwire Demi Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Underwire Demi Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Underwire Demi Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Triangle Racerback Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Black Floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_092_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Triangle Racerback Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Black Floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848053_080_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Flat High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Flat High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Flat High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Flat High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_044_s"
+				},
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37714169_092_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Triangle Racerback Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_s"
+				},
+				{
+					"code": "104",
+					"title": "Light Mauve",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Triangle Racerback Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_s"
+				},
+				{
+					"code": "104",
+					"title": "Light Mauve",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Triangle Racerback Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_s"
+				},
+				{
+					"code": "104",
+					"title": "Light Mauve",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_104_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Deep Plunge Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Deep Plunge Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Deep Plunge Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Deep Plunge Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Black + white",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_062_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44790293_045_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Side Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Side Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Side Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_101_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_044_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44835890_080_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Slinky Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_080_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Slinky Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_080_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_044_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41327545_071_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Micah Crochet One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "085",
+					"title": "Coral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_s"
+				},
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46291993_085_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Nikki Double Ring One-Piece Swimsuit",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "085",
+					"title": "Coral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_s"
+				},
+				{
+					"code": "024",
+					"title": "Tan",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_024_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45405321_085_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under High Neck Cut-Out Solid Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under High Neck Cut-Out Solid Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under High Neck Cut-Out Solid Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46189080_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Black Triangle Racerback Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40848327_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Lyrah Pierced Bikini Top",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45427150_061_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under V-Shape Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293734_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Moderate Hipster Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "097",
+					"title": "Medium Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46293437_097_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Micah Crochet Solid One-Piece Swimsuit",
+			"price": "$72.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46343612_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Melissa Ruched Ring Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45426681_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Back High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Back High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Strappy Back High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": null
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40812539_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Chloe Scallop High-Waisted Bikini Bottom",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43660307_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Chloe Scallop Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43659911_066_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Peek-A-Boo Ring One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "018",
+					"title": "Black + White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_s"
+				},
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Peek-A-Boo Ring One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "018",
+					"title": "Black + White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_018_s"
+				},
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41250598_095_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Brazilian ‘80s Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_s"
+				},
+				{
+					"code": "064",
+					"title": "Light Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_064_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Brazilian ‘80s Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_s"
+				},
+				{
+					"code": "064",
+					"title": "Light Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_064_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43879238_101_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Deep Plunging One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43882364_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Underwire Demi Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_056_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41565516_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Deep Plunge Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Deep Plunge Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42572925_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Strappy Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Strappy Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Strappy Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_101_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_080_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873827_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Printed Strappy Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_062_s"
+				},
+				{
+					"code": "005",
+					"title": "Black floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Printed Strappy Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_062_s"
+				},
+				{
+					"code": "005",
+					"title": "Black floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Winnie Printed Strappy Bikini Top",
+			"price": "$45.00",
+			"colors": [
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_044_s"
+				},
+				{
+					"code": "080",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_080_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_062_s"
+				},
+				{
+					"code": "005",
+					"title": "Black floral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43873173_071_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Cutout Maillot One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43934884_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823292_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Casey Strappy Back One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823292_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823292_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823292_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44823292_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Slinky Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_s"
+				},
+				{
+					"code": "099",
+					"title": "Dark Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_099_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Slinky Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_s"
+				},
+				{
+					"code": "099",
+					"title": "Dark Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_099_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Slinky Bikini Bottom",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Lilac",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_s"
+				},
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_044_s"
+				},
+				{
+					"code": "101",
+					"title": "Deep Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_101_s"
+				},
+				{
+					"code": "099",
+					"title": "Dark Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_099_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39388889_056_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Jules Split-Side Lace-Up One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44846756_001_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Meg Ribbed High-Waisted Bikini Bottom",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Meg Ribbed High-Waisted Bikini Bottom",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_001_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44262962_061_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "033",
+					"title": "Bright Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_s"
+				},
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_s"
+				},
+				{
+					"code": "052",
+					"title": "Plum",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_s"
+				},
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "033",
+					"title": "Bright Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_s"
+				},
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_s"
+				},
+				{
+					"code": "052",
+					"title": "Plum",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_s"
+				},
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "033",
+					"title": "Bright Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_s"
+				},
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_s"
+				},
+				{
+					"code": "052",
+					"title": "Plum",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_s"
+				},
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "033",
+					"title": "Bright Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_s"
+				},
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_s"
+				},
+				{
+					"code": "052",
+					"title": "Plum",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_s"
+				},
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "033",
+					"title": "Bright Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_s"
+				},
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_014_s"
+				},
+				{
+					"code": "052",
+					"title": "Plum",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_052_s"
+				},
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_003_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41349770_033_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Stella Teeny Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Stella Teeny Bikini Top",
+			"price": "$42.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_001_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44260446_061_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Strappy Side Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Strappy Side Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Printed Strappy Side Bikini Bottom",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "044",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_044_s"
+				},
+				{
+					"code": "071",
+					"title": "Dark Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_071_s"
+				},
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_s"
+				},
+				{
+					"code": "082",
+					"title": "Medium Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_082_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44814192_080_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Scoop Back One-Piece Swimsuit",
+			"price": "now $49.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41901638_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under High Neck Bikini Top",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43912286_062_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Kelly Snap-Up One-Piece Swimsuit",
+			"price": "$72.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42117317_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Solid Ruched High-Waisted Bikini Bottom",
+			"price": "now $34.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/37709912_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Maria Minimal One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44843340_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Emma Ribbed Tied Up One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43658434_061_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Tally High-Cut One-Piece Swimsuit",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "031",
+					"title": "Olive",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45406089_031_f?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_b?$medium$&qlt=80&fit=constrain",
+			"name": "Out From Under Caged Side Strap One-Piece Swimsuit",
+			"price": "now $59.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_s"
+				},
+				{
+					"code": "105",
+					"title": "Teal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_105_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43574870_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L"
+				],
+				"rating": 2
+			}
+		}
+	]
+}
