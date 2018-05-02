@@ -1,0 +1,3137 @@
+{
+	"items": [
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_b?$medium$&qlt=80&fit=constrain",
+			"name": "Free & Easy Sunset Long Sleeve Tee",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055109_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_b?$medium$&qlt=80&fit=constrain",
+			"name": "Free & Easy Deli Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "079",
+					"title": "Yellow Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055547_079_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_b?$medium$&qlt=80&fit=constrain",
+			"name": "Welcome Interdimensional Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "105",
+					"title": "Teal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46514998_105_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_b?$medium$&qlt=80&fit=constrain",
+			"name": "Carrots X K-Swiss Tee",
+			"price": "$40.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621041_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_b?$medium$&qlt=80&fit=constrain",
+			"name": "Free & Easy Don’t Trip Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "008",
+					"title": "Grey Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055828_008_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_b?$medium$&qlt=80&fit=constrain",
+			"name": "Hall Of Fame Reg Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44336170_003_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_b?$medium$&qlt=80&fit=constrain",
+			"name": "Soulland Sollezzo Embroidered Crew Neck Sweatshirt",
+			"price": "$145.00",
+			"colors": [
+				{
+					"code": "056",
+					"title": "Violet",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45751419_056_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_b?$medium$&qlt=80&fit=constrain",
+			"name": "Loose Thoughts Let’s Make Up Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46526620_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GMT U Can’t Touch This Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614741_010_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GMT #1 Coach Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44614576_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Free & Easy NYC Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055646_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Welcome Goblin Long Sleeve Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "074",
+					"title": "Mustard",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516977_074_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Carrots X K-Swiss Long Sleeve Tee",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46621140_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Hilfiger Bold Collegiate Stripe Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_032_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176350_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Never Made Reaper Globe Long Sleeve Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46538591_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Wes Applique Hoodie Sweatshirt",
+			"price": "$95.00",
+			"colors": [
+				{
+					"code": "031",
+					"title": "Olive",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44517845_031_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Welcome Old Nick Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46516530_010_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Soulland Gatto Hoodie Sweatshirt",
+			"price": "$200.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45750940_070_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Box Logo Hoodie Sweatshirt",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_s"
+				},
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_041_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_032_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44058709_004_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Pin Up Long Sleeve Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "002",
+					"title": "Washed Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44714178_002_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Pan Sonic Long Sleeve Tee",
+			"price": "$60.00",
+			"colors": [
+				{
+					"code": "011",
+					"title": "Ivory",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573301_011_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Free & Easy Dice Long Sleeve Tee",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46055232_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Old Stock Long Sleeve Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "002",
+					"title": "Washed Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_001_s"
+				},
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_004_s"
+				},
+				{
+					"code": "065",
+					"title": "Rose",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_065_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44709483_002_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Carrots X K-Swiss Crew Neck Sweatshirt",
+			"price": "$80.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46622460_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS David Sayer Stripe Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS David Sayer Stripe Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46329215_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Champion Stacked Eco Hoodie Sweatshirt",
+			"price": "$64.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_001_s"
+				},
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_070_s"
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45223005_045_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Logo Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "065",
+					"title": "Rose",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_s"
+				},
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_004_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_001_s"
+				},
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_066_s"
+				},
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44711208_065_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS David Yarn Dye Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328951_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "J. Cole Dreamville Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_a?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "J. Cole Dreamville Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42823385_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Peer Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239779_041_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Robertson Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "046",
+					"title": "Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_s"
+				},
+				{
+					"code": "006",
+					"title": "Light Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Robertson Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "046",
+					"title": "Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_s"
+				},
+				{
+					"code": "006",
+					"title": "Light Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_006_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45239993_046_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "FILA Script Hoodie Sweatshirt",
+			"price": "$68.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_s"
+				},
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_070_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_001_s"
+				},
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_045_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42723569_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Doheny Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45241437_050_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Roy Hoodie Sweatshirt",
+			"price": "$98.00",
+			"colors": [
+				{
+					"code": "051",
+					"title": "Dark Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46335097_051_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "FILA International Sport Hoodie Sweatshirt",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_s"
+				},
+				{
+					"code": "023",
+					"title": "Taupe",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_023_s"
+				},
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_070_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45526449_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Jeans Collegiate Crew Neck Sweatshirt",
+			"price": "$89.00",
+			"colors": [
+				{
+					"code": "030",
+					"title": "Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_s"
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176178_030_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Karl Kani Vertical Blocked Tee",
+			"price": "$58.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_s"
+				},
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Karl Kani Vertical Blocked Tee",
+			"price": "$58.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_s"
+				},
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Karl Kani Vertical Blocked Tee",
+			"price": "$58.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_070_s"
+				},
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_000_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45242773_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS ’81 Caleb Rugby Shirt",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "030",
+					"title": "Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43262443_030_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Viceland Desus & Mero Juicebox Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46671657_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Stock Yin-Yang Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40041246_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Friends Hoodie Sweatshirt",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44101954_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Applique Hoodie Sweatshirt",
+			"price": "$95.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_s"
+				},
+				{
+					"code": "007",
+					"title": "Silver",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_007_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44518272_040_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_040_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44024826_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Kappa Authentic Hurtado Hoodie Sweatshirt",
+			"price": "$110.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_s"
+				},
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_045_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Jeans Collegiate Stripe Tee",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46176160_070_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Mist Tee",
+			"price": "$46.00",
+			"colors": [
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44712966_014_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Viceland Desus & Mero Smacked City Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46670311_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Basic Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "020",
+					"title": "Brown",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_001_s"
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41384512_020_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS Oversized Stencil Logo Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45240512_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Nasty Nas Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46149910_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Kappa Estessi Tee",
+			"price": "$40.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_s"
+				},
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_066_s"
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_e-1?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45230737_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lil Uzi Vert Hoodie Sweatshirt",
+			"price": "$58.00",
+			"colors": [
+				{
+					"code": "030",
+					"title": "Green",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45697331_030_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Three Stripes Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44934172_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Champion Mirror Script Logo Crew Neck Sweatshirt",
+			"price": "$64.00",
+			"colors": [
+				{
+					"code": "034",
+					"title": "Lime",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_034_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Carrots + Champion Hoodie Sweatshirt",
+			"price": "$90.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46777280_040_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Patagonia P6 Logo Long Sleeve Tee",
+			"price": "$46.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_s"
+				},
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_041_s"
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43917699_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Patagonia Line Logo Badge Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": null
+				},
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43922319_004_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Arch Applique Hoodie Sweatshirt",
+			"price": "$95.00",
+			"colors": [
+				{
+					"code": "067",
+					"title": "Peach",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44519585_067_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Rainbow Box Logo Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42907634_095_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Friends Throwback Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42957274_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "FILA Landon Long Sleeve Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "046",
+					"title": "Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45029683_046_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Pharrell Williams HU Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "030",
+					"title": "Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_s"
+				},
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_072_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_061_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_040_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44572816_030_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "NASA Worm Logo Long Sleeve Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43903368_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Trefoil Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_032_s"
+				},
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_072_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970888_040_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Solar Long Sleeve Tee",
+			"price": "$52.00",
+			"colors": [
+				{
+					"code": "014",
+					"title": "Neutral",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44713030_014_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "FILA Logo Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40576019_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Wildroot Embroidered Mentally Gone Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/39982269_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Death Row Records Embroidered Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "002",
+					"title": "Washed black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/41973793_002_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Stussy Design Bubble Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "074",
+					"title": "Mustard",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43612779_074_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "NASA Hoodie Sweatshirt",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "023",
+					"title": "Taupe",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46679890_023_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Sade Lovers Rock Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42120550_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Meek Mill Cover Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46156477_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Skateboarding Club Long Sleeve Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970821_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Post Malone I Fall Apart Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46406559_080_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Champion Script Logo Crew Neck Sweatshirt",
+			"price": "$64.00",
+			"colors": [
+				{
+					"code": "046",
+					"title": "Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44484541_046_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Pickle Rick Pocket Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45638566_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lil Uzi Vert Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/40895211_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Dragon Ball Z Goku Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43223130_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Ichiraku Ramen Shop Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42423137_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Printed Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44346146_095_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas 3-Stripes Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_032_s"
+				},
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_072_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43970409_040_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Juice X 2Pac Bishop Chain Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44531341_010_f=s?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Gucci Mane Pinkies Up Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43084805_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Star Wars Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42969071_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Carrots Long Sleeve Tee",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46786810_010_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Hilfiger Wrap Around Logo Tee",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44123974_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Cross Colours TLC 1992 Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43389667_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		}
+	]
+}

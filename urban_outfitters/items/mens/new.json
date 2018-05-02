@@ -1,0 +1,3072 @@
+{
+	"items": [
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_d?$medium$&qlt=80&fit=constrain",
+			"name": "Levi’s Overdyed Denim Trucker Jacket",
+			"price": "$99.00",
+			"colors": [
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46830576_003_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$medium$&qlt=80&fit=constrain",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_b?$medium$&qlt=80&fit=constrain",
+			"name": "Loom Golf Plaid Pant",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46602025_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28/32",
+					"30/32",
+					"32/32",
+					"34/32"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_b?$medium$&qlt=80&fit=constrain",
+			"name": "New Balance 247 Knit Sneaker",
+			"price": "$110.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45291713_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_b?$medium$&qlt=80&fit=constrain",
+			"name": "Rolla’s Men At Work Navy Flannel Button-Down Shirt",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430071_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_b?$medium$&qlt=80&fit=constrain",
+			"name": "Welcome Transcend Hoodie Sweatshirt",
+			"price": "$64.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47144027_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_b?$medium$&qlt=80&fit=constrain",
+			"name": "Dr. Martens Newton Canvas Boot",
+			"price": "$120.00",
+			"colors": [
+				{
+					"code": "013",
+					"title": "Beige",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_s"
+				},
+				{
+					"code": "009",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_009_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44683217_013_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_b?$medium$&qlt=80&fit=constrain",
+			"name": "Levi’s 510 Rolled Up Dollar Skinny Jean",
+			"price": "$80.00",
+			"colors": [
+				{
+					"code": "106",
+					"title": "Vintage Denim LIght",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44869030_106_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Trefoil Crew Neck Sweatshirt",
+			"price": "$60.00",
+			"colors": [
+				{
+					"code": "046",
+					"title": "Turquoise",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44938082_046_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Loser Machine Times Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918009_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Levi’s 511 Powder Blue Denim Cutoff Short",
+			"price": "$58.00",
+			"colors": [
+				{
+					"code": "107",
+					"title": "Vintage Denim Medium",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46600797_107_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Sk8-Hi Decon Sneaker",
+			"price": "$65.00",
+			"colors": [
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45699105_000_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Rolla’s Square Town Rayon Short Sleeve Button-Down Shirt",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429743_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tupac Poetic Justice Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46994836_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Deerupt Sneaker",
+			"price": "$100.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44903821_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7",
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13",
+					"14"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Fanorak Jacket",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_s"
+				},
+				{
+					"code": "038",
+					"title": "Green Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_s"
+				},
+				{
+					"code": "016",
+					"title": "Tan",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_016_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Meltdown Hoodie Sweatshirt",
+			"price": "$124.00",
+			"colors": [
+				{
+					"code": "070",
+					"title": "Gold",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44576759_070_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Yoko Honda Surf Trunk",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "050",
+					"title": "Purple",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374759_050_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Birkenstock Arizona Leather Core Sandal",
+			"price": "$125.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_s"
+				},
+				{
+					"code": "023",
+					"title": "Taupe",
+					"picture": null
+				},
+				{
+					"code": "020",
+					"title": "Brown",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43319946_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Legends Of The Hidden Temple Long Sleeve Tee",
+			"price": "$39.00",
+			"colors": [
+				{
+					"code": "012",
+					"title": "Cream",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46979357_012_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lazy Oaf Stripe Denim Jacket",
+			"price": "$129.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46040689_004_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source My Other Mother Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297510_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Hilfiger Relaxed Cropped Jean",
+			"price": "$139.00",
+			"colors": [
+				{
+					"code": "106",
+					"title": "Vintage Denim LIght",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44401792_106_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30/32",
+					"32/32",
+					"34/32",
+					"36/32"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Old Skool Suiting Sneaker",
+			"price": "$60.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tie-Dye Pink Panther Hoodie Sweatshirt",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46834420_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Palmtopia Floral Swim Short",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374981_045_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "UO Plastic Cat Eye Sunglasses",
+			"price": "$18.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_060_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_040_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45487253_001_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Authentic Sneaker",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_010_s"
+				},
+				{
+					"code": "012",
+					"title": "Cream",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_060_s"
+				},
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_041_s"
+				},
+				{
+					"code": "018",
+					"title": "Black + White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_018_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45694494_012_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Citizens Of Humanity Bowery Natural Slim Jean",
+			"price": "$218.00",
+			"colors": [
+				{
+					"code": "012",
+					"title": "Cream",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46826947_012_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28",
+					"29",
+					"30",
+					"31",
+					"32",
+					"33",
+					"34",
+					"36"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Nike Air Force 1 ‘07 Sneaker",
+			"price": "$90.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46676300_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"8.5",
+					"9",
+					"9.5",
+					"10",
+					"10.5",
+					"11",
+					"11.5",
+					"12",
+					"13"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Mitchell & Ness NBA All Stars West Magic Johnson Crew Neck Jersey",
+			"price": "$100.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47173943_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Kappa Authentic Hurtado Hoodie Sweatshirt",
+			"price": "$110.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_s"
+				},
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_045_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45232485_004_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Polka Dot Zen Swim Short",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375343_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Old Skool Sneaker",
+			"price": "$60.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703691_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Tommy Hilfiger Core Flag Tee",
+			"price": "$28.00",
+			"colors": [
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_s"
+				},
+				{
+					"code": "083",
+					"title": "Burnt Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_083_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_032_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/42287441_040_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Rolla’s Men At Work Tan Flannel Button-Down Shirt",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "036",
+					"title": "Tan Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45430006_036_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Scratch The Surface Tee",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573087_072_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Citizens Of Humanity Noah Skinny Jean",
+			"price": "$198.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827564_001_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28",
+					"29",
+					"30",
+					"31",
+					"32",
+					"33",
+					"34",
+					"36"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Classic Slip-On Dystopia Park Sneaker",
+			"price": "$55.00",
+			"colors": [
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45703378_000_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste Sport Chest Stripe Ultra Dry Pique Polo Shirt",
+			"price": "$98.00",
+			"colors": [
+				{
+					"code": "080",
+					"title": "Orange",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912772_080_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Loom Houndstooth Pleated Cropped Pant",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "023",
+					"title": "Taupe",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46748299_023_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28/32",
+					"30/32",
+					"32/32",
+					"34/32"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Dark Seas Sun Up Long Sleeve Tee",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918637_045_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Chamula Cancun Huarache Woven Loafer",
+			"price": "$99.00",
+			"colors": [
+				{
+					"code": "072",
+					"title": "Yellow",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_s"
+				},
+				{
+					"code": "020",
+					"title": "Brown",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_020_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44561082_072_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7",
+					"8",
+					"9",
+					"10",
+					"11",
+					"12"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Rolla’s Bon Bamboo Rayon Short Sleeve Button-Down Shirt",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429693_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Loser Machine Smile Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918090_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Fresh Prince Swim Short",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44374692_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "UO Simple Leather Band Watch",
+			"price": "$27.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_001_s"
+				},
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_041_s"
+				},
+				{
+					"code": "020",
+					"title": "Brown",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_020_s"
+				},
+				{
+					"code": "016",
+					"title": "Tan",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_016_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44784981_001_e?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Loser Machine Hellraisers Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46918397_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Yoga Swim Short",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "045",
+					"title": "Sky",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375392_045_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas EQT Support Mid ADV Primeknit Sneaker",
+			"price": "$160.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44904365_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7",
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13",
+					"14"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Raised By Wolves Tech Jacket",
+			"price": "$255.00",
+			"colors": [
+				{
+					"code": "003",
+					"title": "Charcoal",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45818705_003_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Dean Splice Stripe Button-Down Shirt",
+			"price": "$99.00",
+			"colors": [
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45008778_000_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste Shoulder Blocked Pique Tee",
+			"price": "$85.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44930915_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Boardies Tropicano Palm Swim Short",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44375459_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans X Wade Goodall Sport Slide Sandal",
+			"price": "$38.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45357605_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Rolla’s Sun Warrior Rayon Short Sleeve Button-Down Shirt",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45429818_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source Never Stop Exploring Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47297858_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Eastland Daytona Driving Loafer",
+			"price": "$90.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45445541_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "BDG Ecru Dad Jean",
+			"price": "$54.00",
+			"colors": [
+				{
+					"code": "024",
+					"title": "Tan",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46463139_024_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "GUESS St. James Stripe Tee",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_s"
+				},
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_060_s"
+				},
+				{
+					"code": "062",
+					"title": "Berry",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_062_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46328746_032_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Levi’s 511 Glinda Cutoff Denim Short",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47194188_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Havaianas Brazil Flip-Flop",
+			"price": "$24.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7/8",
+					"9",
+					"10/11",
+					"12/13"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Arthur Dad Hat",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "030",
+					"title": "Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46470324_030_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Bamboo Cay Embroidered Palm Short Sleeve Button-Down Shirt",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "011",
+					"title": "Ivory",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47276530_011_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "AGOLDE Underground Distressed Skinny Jean",
+			"price": "$168.00",
+			"colors": [
+				{
+					"code": "002",
+					"title": "Washed Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44806669_002_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Havaianas Brazil Flip-Flop",
+			"price": "$24.00",
+			"colors": [
+				{
+					"code": "004",
+					"title": "Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_004_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45704418_001_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7/8",
+					"9",
+					"10/11",
+					"12/13"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Embroidered Sad Rose Tie-Dye Hoodie Sweatshirt",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46691127_000_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Embroidered Ronald Trucker Jacket",
+			"price": "$380.00",
+			"colors": [
+				{
+					"code": "091",
+					"title": "Indigo",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45011350_091_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Sunbleached Possibilities Pocket Tee",
+			"price": "$65.00",
+			"colors": [
+				{
+					"code": "065",
+					"title": "Rose",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573343_065_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vintage Stan Ray Painter Pant",
+			"price": "$59.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46639837_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste Gabardine Bucket Hat",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_s"
+				},
+				{
+					"code": "023",
+					"title": "Taupe",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_023_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44877181_041_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Hall Of Fame Tampa Warm-Up Track Jacket",
+			"price": "$90.00",
+			"colors": [
+				{
+					"code": "005",
+					"title": "Dark Grey",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44331916_005_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Dr. Denim Otis Light Blue Cropped Relaxed Jean",
+			"price": "$85.00",
+			"colors": [
+				{
+					"code": "106",
+					"title": "Vintage Denim LIght",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45894466_106_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28",
+					"29",
+					"30",
+					"31",
+					"32",
+					"33",
+					"34",
+					"36",
+					"38"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Deus Ex Machina Raptura Tee",
+			"price": "$50.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44573178_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste 85th Re-Edition Sling Bag",
+			"price": "$89.00",
+			"colors": [
+				{
+					"code": "038",
+					"title": "Green Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46709119_038_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste Stripe Harrington Jacket",
+			"price": "$249.00",
+			"colors": [
+				{
+					"code": "049",
+					"title": "Blue Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44876977_049_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "UO Pleated Chino Dad Short",
+			"price": "$44.00",
+			"colors": [
+				{
+					"code": "067",
+					"title": "Peach",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_s"
+				},
+				{
+					"code": "002",
+					"title": "Washed Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46188116_067_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"29",
+					"30",
+					"31",
+					"32",
+					"33",
+					"34",
+					"36"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Slydes Floral Slide Sandal",
+			"price": "$40.00",
+			"colors": [
+				{
+					"code": "000",
+					"title": "Assorted",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44808442_000_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source John Muir Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "060",
+					"title": "Red",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298104_060_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Fanorak Jacket",
+			"price": "$79.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_s"
+				},
+				{
+					"code": "038",
+					"title": "Green Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_038_s"
+				},
+				{
+					"code": "016",
+					"title": "Tan",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_016_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44165421_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "One Teaspoon Blue Storm Skinny Jean",
+			"price": "$173.00",
+			"colors": [
+				{
+					"code": "106",
+					"title": "Vintage Denim LIght",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47017926_106_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas Predator Tango 18.3 Sneaker",
+			"price": "$90.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46973087_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"9.5",
+					"10",
+					"10.5",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 3
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "’47 Brand New York Yankees Otsego Baseball Hat",
+			"price": "$34.00",
+			"colors": [
+				{
+					"code": "041",
+					"title": "Navy",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45258423_041_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste Camo Tee",
+			"price": "$70.00",
+			"colors": [
+				{
+					"code": "095",
+					"title": "Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44928521_095_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Champion & UO Anorak Jacket",
+			"price": "$89.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_s"
+				},
+				{
+					"code": "032",
+					"title": "Dark Green",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_032_s"
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_001_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_040_s"
+				},
+				{
+					"code": "061",
+					"title": "Maroon",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_061_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_f-1?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43159763_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"XS",
+					"S",
+					"M",
+					"L",
+					"XL",
+					"XXL"
+				],
+				"rating": 0
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "BDG Fracture Suede Side Tape Slim Jean",
+			"price": "$69.00",
+			"colors": [
+				{
+					"code": "107",
+					"title": "Vintage Denim Medium",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46623997_107_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28/30",
+					"28/32",
+					"29/30",
+					"29/32",
+					"30/30",
+					"30/32",
+					"31/32",
+					"32/30",
+					"32/32",
+					"32/34",
+					"33/32",
+					"34/30",
+					"34/32",
+					"34/34",
+					"36/32",
+					"36/34",
+					"38/32"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Vans Old Skool Suiting Sneaker",
+			"price": "$60.00",
+			"colors": [
+				{
+					"code": "066",
+					"title": "Pink",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_s"
+				},
+				{
+					"code": "040",
+					"title": "Blue",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_040_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45702677_066_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"M 7/W 8.5",
+					"M 8/W 9.5",
+					"M 9/W 10.5",
+					"M 9.5/W 11",
+					"M 10/W 11.5",
+					"M 10.5/W 12",
+					"M 11/W 12.5",
+					"M 12/W 13.5",
+					"M 13/W 14.5"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Dark Seas Baker Snapback Hat",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46912457_010_g?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"ONE SIZE"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Loser Machine Bouquet Tee",
+			"price": "$29.00",
+			"colors": [
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46917878_001_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Citizens Of Humanity Rowan Relaxed Slim Jean",
+			"price": "$258.00",
+			"colors": [
+				{
+					"code": "107",
+					"title": "Vintage Denim Medium",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46827101_107_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"28",
+					"29",
+					"30",
+					"31",
+					"32",
+					"33",
+					"34",
+					"36"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "adidas I-5923 Sneaker",
+			"price": "$130.00",
+			"colors": [
+				{
+					"code": "012",
+					"title": "Cream",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/46820064_012_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"7",
+					"8",
+					"9",
+					"9.5",
+					"10",
+					"10.5",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Lacoste L!ve Camouflage Pique Polo Shirt",
+			"price": "$120.00",
+			"colors": [
+				{
+					"code": "079",
+					"title": "Yellow Multi",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/44912343_079_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 2
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "Dickies X UO Cutoff 874 Work Pant",
+			"price": "$49.00",
+			"colors": [
+				{
+					"code": "031",
+					"title": "Olive",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_s"
+				},
+				{
+					"code": "021",
+					"title": "Chocolate",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_021_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/43681741_031_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"30",
+					"32",
+					"34",
+					"36"
+				],
+				"rating": 4
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "New Balance 840 Sneaker",
+			"price": "$100.00",
+			"colors": [
+				{
+					"code": "010",
+					"title": "White",
+					"picture": null
+				},
+				{
+					"code": "001",
+					"title": "Black",
+					"picture": null
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/45292554_010_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"8",
+					"9",
+					"10",
+					"11",
+					"12",
+					"13"
+				],
+				"rating": 1
+			}
+		},
+		{
+			"picture": "//images.urbanoutfitters.com/is/image/UrbanOutfitters/loading-spacer?&fmt=png-alpha&wid=349&hei=523",
+			"name": "The North Face Bottle Source My Other Mother Tee",
+			"price": "$36.00",
+			"colors": [
+				{
+					"code": "002",
+					"title": "Washed Black",
+					"picture": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_s"
+				}
+			],
+			"detailed": {
+				"pictures": [
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_b?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_d?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_e?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_f?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_g?$xlarge$&hei=900&qlt=80&fit=constrain",
+					"//images.urbanoutfitters.com/is/image/UrbanOutfitters/47298203_002_h?$xlarge$&hei=900&qlt=80&fit=constrain"
+				],
+				"sizes": [
+					"S",
+					"M",
+					"L",
+					"XL"
+				],
+				"rating": 1
+			}
+		}
+	]
+}
